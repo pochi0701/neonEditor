@@ -29,17 +29,9 @@ PHPが動作する環境ならほぼ動くでしょう。
 
 ■■ パッケージ内容 ■■
 
-index.php       : サーバソフトウェア本体(IA32 VineLinux2.1 版バイナリ)
-wizd.conf       : 設定ファイル
-makefile        : 再コンパイルのためのmakefile
-readme.txt      : このテキスト
-source/         : ソースファイル置き場。いやがらないで読みましょう。
-skin/           : スキンデータ置き場
-skin/default    : デフォルトスキン
-skin/sample     : サンプルスキン
-skin/basicblue  : スキン『basicbule』
-InternetRadio.html   : インターネットラジオ情報
-playlist_sample.plw  : wizd playlistファイル サンプル。
+index.php
+その他もろもろ
+
 
 
 
