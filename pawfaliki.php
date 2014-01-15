@@ -81,7 +81,7 @@ $config['EMAIL']['MODTIME_FORMAT'] = "Y-m-d H:i:s"; // date() compatible format 
 $config['EMAIL']['SHOW_IP'] = false; // show the modifiers ip in the email subject
 
 // USERS: setup user passwords
-$config['USERS']['admin'] = "inqbus1253"; // changing this would be a good idea!
+$config['USERS']['admin'] = ""; // changing this would be a good idea!
 //$config['USERS']['group1'] = "group1password"; // create a new user password
 
 // RESTRICTED: give access to some users to edit restricted pages
